@@ -1,0 +1,1 @@
+{"name":"Local: 1594mkthmeq","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1594mkthmeq.cpp","tests":[{"id":1666708335888,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx\n","output":"0\n1\n2\n2 \n2 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1594mkthmeq.cpp","group":"local","local":true}

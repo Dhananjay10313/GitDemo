@@ -1,0 +1,1 @@
+{"name":"Local: vir5","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\vir5.cpp","tests":[{"id":1671786948843,"input":"3\n5\n3 1 5 2 3\n4\n17 8 19 45\n8\n265 265 265 265 265 265 265 265","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\vir5.cpp","group":"local","local":true}

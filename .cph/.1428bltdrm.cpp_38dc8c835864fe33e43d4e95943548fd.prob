@@ -1,0 +1,1 @@
+{"name":"Local: 1428bltdrm","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1428bltdrm.cpp","tests":[{"id":1667068708828,"input":"4\n4\n-><-\n5\n>>>>>\n3\n<--\n2\n<>","output":"3\n5\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1428bltdrm.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1462D","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1462D.cpp","tests":[{"id":1670501820973,"input":"4\n5\n3 1 6 6 2\n4\n1 2 2 1\n3\n2 2 2\n4\n6 3 2 1","output":"4\n2\n0\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1462D.cpp","group":"local","local":true}

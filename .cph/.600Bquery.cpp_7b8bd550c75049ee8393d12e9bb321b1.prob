@@ -1,0 +1,1 @@
+{"name":"Local: 600Bquery","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\600Bquery.cpp","tests":[{"id":1669443961745,"input":"5 4\n1 3 5 7 9\n6 4 2 8\n","output":"3 2 1 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\600Bquery.cpp","group":"local","local":true}

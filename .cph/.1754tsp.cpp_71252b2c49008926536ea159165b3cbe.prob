@@ -1,0 +1,1 @@
+{"name":"Local: 1754tsp","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1754tsp.cpp","tests":[{"id":1666558362528,"input":"5\n4\nQQAA\n4\nQQAQ\n3\nQAA\n1\nQ\n14\nQAQQAQAAQQQAAA","output":"Yes\nNo\nYes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1754tsp.cpp","group":"local","local":true}

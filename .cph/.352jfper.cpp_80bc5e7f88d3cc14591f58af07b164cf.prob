@@ -1,0 +1,1 @@
+{"name":"Local: 352jfper","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\352jfper.cpp","tests":[{"id":1669442239879,"input":"8\n1 2 1 3 1 2 1 5\n","output":"4\n1 2\n2 4\n3 0\n5 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\352jfper.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1373Cplsmin","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1373Cplsmin.cpp","tests":[{"id":1668582433758,"input":"3\n--+-\n---\n++--+-","output":"7\n9\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1373Cplsmin.cpp","group":"local","local":true}

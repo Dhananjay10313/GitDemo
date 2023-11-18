@@ -1,0 +1,1 @@
+{"name":"Local: 1364mstsocseq","url":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1364mstsocseq.cpp","tests":[{"id":1668174732803,"input":"2\n3\n3 2 1\n4\n1 3 4 2","output":"2\n3 1 \n3\n1 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Programming\\coding\\1364mstsocseq.cpp","group":"local","local":true}
